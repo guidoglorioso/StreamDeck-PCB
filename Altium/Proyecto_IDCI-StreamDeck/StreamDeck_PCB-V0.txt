@@ -1,0 +1,20 @@
+Board Information Report
+Filename     : C:\Users\guido\OneDrive - UTN.BA\UTN - Facultad\2 - CURSANDO\PCB\StreamDeck-PCB\Altium\Proyecto_IDCI-StreamDeck\StreamDeck_PCB-V0.PcbDoc
+Date         : 18/12/2024
+Time         : 23:03:39
+Time Elapsed : 00:00:00
+
+Plated Hole Size, Pads, Vias
+    0mm, 230, 0
+    0.4mm, 10, 0
+    0.4064mm, 0, 69
+    0.762mm, 18, 0
+    0.95mm, 5, 0
+count : 5
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Net Via Size, Count
+    0.7112mm, 51
+count : 1
